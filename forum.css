@@ -1,0 +1,25 @@
+.blogbox
+{
+	border:1px solid;
+
+}
+.photo
+{
+	background: red;
+}
+.content
+{
+	background: blue;
+}
+.like
+{
+	background: green;
+}
+.comment
+{
+	background: yellow;
+}
+.share
+{
+	background: black;
+}

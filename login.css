@@ -1,0 +1,57 @@
+#index
+{
+	background: url(photos/pforum.jpg);
+	background-repeat: no-repeat;
+	
+	font-family:arial;
+	width: 100%;
+	height: 100%;
+	padding-top:
+}
+.profbox{
+	background: rgba(0,0,0,0.4);
+	width: 510px;
+	height: 530px;
+	margin: 0px auto;
+
+	padding: 50px;
+	text-align: center;
+	font-family: arial;
+	border: dashed;
+}
+
+
+
+
+.profbox  input
+{
+	margin: 8px;
+	width: 90%;
+	height: 40px;
+
+}
+.profbox p a
+{
+	color: lightblue;
+}
+
+.profbox button
+{
+	margin: 8px;
+	width: 90%;
+	background-color:#4CAF50;
+	border: none;
+	height: 35px;
+
+}
+
+.profbox button:hover
+{
+	background-color: #3e8e41;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19); 
+}
+
+.profbox h4{
+	margin: 0px;
+}
+

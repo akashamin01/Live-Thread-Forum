@@ -1,0 +1,20 @@
+basics of the website 
+
+1.sign_up
+2.log_in
+3.home/index page accesed by anyone
+4.upload a post only when logged in 
+5.upvote/downvote only when logged in 
+6.comment only when logged in 
+7.tagging a user (logging imp)
+8.be a prime user (add cash)
+
+
+total pages req
+1.home 
+2.login 
+3.signup
+4.user profile includes privacy,post he has saved,commneted,notifications etc 
+5.general post
+6.specific post according to its cateogory
+7.
