@@ -17,4 +17,4 @@ total pages req
 4.user profile includes privacy,post he has saved,commneted,notifications etc 
 5.general post
 6.specific post according to its cateogory
-7.
+7.creating a link for signup using other social media websites
