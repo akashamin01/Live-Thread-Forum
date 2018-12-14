@@ -79,9 +79,6 @@ session_start();
 					}
 
 						?>
-							 
-					
-						
 					</h1>
 					</div>
 				</div>
