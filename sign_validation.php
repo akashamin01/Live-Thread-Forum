@@ -9,7 +9,6 @@ $conn = mysqli_connect($dbservername, $dbusername, $dbpassword, $dbname);
 
 if (isset($_POST['submit'])) {
 	
-	
 	$first = mysqli_real_escape_string($conn, $_POST['first']);
 	$last = mysqli_real_escape_string($conn, $_POST['last']);
 	$email = mysqli_real_escape_string($conn, $_POST['email']);
