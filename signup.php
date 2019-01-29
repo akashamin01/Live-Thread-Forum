@@ -21,6 +21,5 @@
                     <input  id="login" type="submit" name="submit" value="REGISTER">
             </form>
           </div>
-	
 </body> 
 </html>
