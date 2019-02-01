@@ -9,7 +9,6 @@ basics of the website
 7.tagging a user (logging imp)
 8.be a prime user (add cash)
 
-
 total pages req
 1.home 
 2.login 
