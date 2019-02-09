@@ -59,7 +59,7 @@ session_start();
 </nav>
 
 ';
-					}else
+				}else
 
 					{
 						echo'<div id="index">
