@@ -27,7 +27,6 @@ include 'index.php'
 			</div>
 		</div>
 		<div class="col-md-4">
-
 			<div class="blogbox">
 				<img class="img-responsive" style="width: 100%;height: 50%;"  src="pic1.jpg">
 				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknoncluding versions of Lorem Ipsum</p>
